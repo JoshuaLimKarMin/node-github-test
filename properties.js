@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
          "Content-Type": "text/html; utf-8"
       })
       res.end(fs.readFileSync('main.html'))
-   }else if(req.url === '/second'){
+   }else if(req.url === '/node-github-test/second'){
       res.writeHead(200, {
          "Content-Type": "text/html; utf-8"
       })
