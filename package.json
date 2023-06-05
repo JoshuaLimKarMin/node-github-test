@@ -1,0 +1,11 @@
+{
+  "name": "node.js-in-github",
+  "version": "0.1.0",
+  "description": "Testing the use of Node.js in GitHub pages.",
+  "main": "properties.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Lim",
+  "license": "ISC"
+}
